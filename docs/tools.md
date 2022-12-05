@@ -1,6 +1,7 @@
 ---
 title: Tools
-has_children: true
+parent: Just-The-Docs
+has_children: false
 nav_order: 2
 ---
 
