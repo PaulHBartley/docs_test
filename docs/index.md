@@ -1,5 +1,5 @@
 ---
-title: Just-The-Docs Test
+title: Just-The-Docs
 layout: home
 ---
 
