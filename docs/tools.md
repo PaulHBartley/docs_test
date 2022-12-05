@@ -1,6 +1,6 @@
 ---
 title: Tools
-parent: index.md
+parent: Just-The-Docs Test
 has_children: false
 nav_order: 1
 ---
