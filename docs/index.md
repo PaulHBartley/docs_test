@@ -1,5 +1,4 @@
 ---
-title: Docs Test
 layout: home
 ---
 
