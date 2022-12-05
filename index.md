@@ -1,7 +1,6 @@
 ---
 title: Just-The-Docs
 layout: home
-has_children: true
 nav_order: 1
 ---
 
