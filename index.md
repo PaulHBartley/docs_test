@@ -7,4 +7,4 @@ has_children: true
 
 # Landing Page Title
 
-Content goes here
+Introductory content goes here.
