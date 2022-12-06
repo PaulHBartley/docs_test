@@ -5,6 +5,6 @@ nav_order: 1
 has_children: true
 ---
 
-# Title
+# Landing Page Title
 
 Content goes here
