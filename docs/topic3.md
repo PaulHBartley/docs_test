@@ -5,6 +5,6 @@ parent: Landing Page
 nav_order: 3
 ---
 
-# Topic 3
+# Topic 3 Title
 
 Content goes here.

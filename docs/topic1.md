@@ -6,6 +6,6 @@ has_children: true
 nav_order: 1
 ---
 
-# Topic 1
+# Topic 1 Title
 
 Content goes here.

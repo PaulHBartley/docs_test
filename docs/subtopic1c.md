@@ -6,6 +6,6 @@ grand_parent: Landing Page
 nav_order: 3
 ---
 
-# Subtopic 1c
+# Subtopic 1c Title
 
 Content goes here.
