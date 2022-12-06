@@ -2,7 +2,7 @@
 title: Topic 4
 layout: default
 parent: Landing Page
-nav_order: 5
+nav_order: 4
 ---
 
 # Topic 4
